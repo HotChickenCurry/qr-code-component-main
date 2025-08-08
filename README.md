@@ -27,8 +27,8 @@ This is my solution to the Frontend Mentor QR Code Component Challenge. The goal
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-tailwindcss-htGWAKW3TU)
-- Live Site URL: [Add live site URL here](https://hotchickencurry.github.io/qr-code-component-main)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-tailwindcss-htGWAKW3TU](https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-tailwindcss-htGWAKW3TU)
+- Live Site URL: [https://hotchickencurry.github.io/qr-code-component-main](https://hotchickencurry.github.io/qr-code-component-main)
 
 ## My process
 
