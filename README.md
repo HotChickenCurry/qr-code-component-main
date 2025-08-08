@@ -1,6 +1,6 @@
 ﻿# Frontend Mentor - QR code component solution
 
-This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-tailwindcss-htGWAKW3TU). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [QR code component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -27,8 +27,8 @@ This is my solution to the Frontend Mentor QR Code Component Challenge. The goal
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/responsive-qr-code-challenge-using-tailwindcss-htGWAKW3TU)
+- Live Site URL: [Add live site URL here](https://hotchickencurry.github.io/qr-code-component-main)
 
 ## My process
 
