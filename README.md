@@ -48,14 +48,11 @@ I started by adding semantic tags like <main> and <article> to organize the HTML
 While working on this QR code component, I strengthened my understanding of semantic HTML and Tailwind CSS.
 Key takeaways from the project:
     1. Use semantic elements like <main> and <article> for better accessibility and structure.
-
     2. Center elements both vertically and horizontally with Tailwind’s flex, items-center, and justify-center.
-
     3. Keeping the footer at the bottom with flex-grow by making the main content grow to fill available space, the footer stays at the bottom of the screen even when there’s not much content.
-
     4. Load only specific font weights from Google Fonts to reduce file size.
 
-### Continued development\
+### Continued development
 
 I want to get faster at using Tailwind CSS and learn better ways to reuse styles without cluttering the HTML. I also want to keep practicing flexbox and grid so I can build more complex layouts more confidently. I also want to work on small performance improvements, like only loading what the page actually needs.
 
